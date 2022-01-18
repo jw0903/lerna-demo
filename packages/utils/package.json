@@ -1,5 +1,5 @@
 {
-  "name": "@jerry-test/utils",
+  "name": "@jerry-dev/utils",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "lin559 <scau_ljw@126.com>",
@@ -18,5 +18,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "6829c41b2e803af65c5f793c0f1c1ae1ee1bd795"
 }
