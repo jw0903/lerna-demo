@@ -10,4 +10,5 @@ function core() {
     console.log('update some bug');
     console.log('update some bug1');
     console.log('update some bug20220119');
+    console.log('update some bug1521');
 }
