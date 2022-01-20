@@ -11,6 +11,7 @@ function core() {
         console.log(new Date());
         console.log('0222012001');
         console.log('0222012002');
+        console.log('breakCHANGE');
         return new Date();
     }
     return a;
