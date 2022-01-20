@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/lin559/lerna-demo/compare/@jerry-dev/core@1.0.4...@jerry-dev/core@1.0.5) (2022-01-20)
+
+
+### Features
+
+* 2001 ([8132b68](https://github.com/lin559/lerna-demo/commit/8132b68c47ce5c3d6ecc00b8f167a52e61d20f11))
+
+
+
+
+
 ## [1.0.4](https://github.com/lin559/lerna-demo/compare/@jerry-dev/core@1.0.3...@jerry-dev/core@1.0.4) (2022-01-20)
 
 
