@@ -10,6 +10,7 @@ function core() {
         console.log('a function');
         console.log(new Date());
         console.log('0222012001');
+        console.log('0222012002');
         return new Date();
     }
     return a;
