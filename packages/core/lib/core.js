@@ -13,6 +13,7 @@ function core() {
         console.log('0222012002');
         console.log('breakCHANGE');
         console.log('refactor!: test refactor');
+        console.log('feat: dd');
         return new Date();
     }
     return a;
