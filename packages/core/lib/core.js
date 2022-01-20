@@ -18,6 +18,7 @@ function core() {
         console.log('fix bug');
         console.log('fix bug');
         console.log('fix bug');
+        console.log('add feat');
         return new Date();
     }
     return a;
