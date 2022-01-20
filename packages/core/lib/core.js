@@ -14,6 +14,7 @@ function core() {
         console.log('breakCHANGE');
         console.log('refactor!: test refactor');
         console.log('feat: dd');
+        console.log('breaking change: 01');
         return new Date();
     }
     return a;
